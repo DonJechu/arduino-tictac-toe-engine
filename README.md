@@ -20,7 +20,7 @@ A robust, state-machine-based implementation of the classic Tic-Tac-Toe game for
 4. The system will validate if the cell is occupied and check for win/draw conditions automatically.
 
 ## 📂 Project Structure
-* `tictactoe.ino`: Main logic including the render engine, input parser, and win-condition algorithms.
+* `main.ino`: Main logic including the render engine, input parser, and win-condition algorithms.
 
 ---
 *Developed by **Jesus Perea** — Mechatronics Engineering Student.*
